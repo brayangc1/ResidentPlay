@@ -1,0 +1,8 @@
+header .header__logo{
+    flex-direction: row;
+    padding-bottom: 40px;
+}
+header .logoplay{
+    margin: initial;
+    margin-left: 10px;
+}
